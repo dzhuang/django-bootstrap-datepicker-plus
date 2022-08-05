@@ -49,9 +49,8 @@ class BasePickerInput(DateTimeBaseInput):
 
     class Media:
         """JS/CSS resources needed to render the date-picker calendar."""
-        js = (
-            "bootstrap_datepicker_plus/datepicker-widget.js",
-        )
+
+        js = ("bootstrap_datepicker_plus/datepicker-widget.js",)
 
     @classmethod
     def format_py2js(cls, datetime_format):
