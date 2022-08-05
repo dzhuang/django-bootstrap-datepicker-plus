@@ -30,7 +30,7 @@ Now you have to create a HTML template for date-picker input.
     <div class="input-group date my-custom-class">
         {% include "bootstrap_datepicker_plus/input.html" %}
         <div class="input-group-addon input-group-append">
-            <div class="input-group-text"><i class="fa-solid fa-calendar-days"></i></div>
+            <div class="input-group-text"><i class="fa6-solid fa6-calendar-days"></i></div>
         </div>
     </div>
 
@@ -44,6 +44,6 @@ You can also create a template for TimePickerInput and create a custom time-pick
     <div class="input-group date my-custom-class">
         {% include "bootstrap_datepicker_plus/input.html" %}
         <div class="input-group-addon input-group-append">
-            <div class="input-group-text"><i class="fa-regular fa-clock"></i></div>
+            <div class="input-group-text"><i class="fa6-regular fa6-clock"></i></div>
         </div>
     </div>

@@ -10,7 +10,11 @@ import gzipPlugin from 'rollup-plugin-gzip';
 import { FaFreeProvider } from 'subset-iconfont';
 
 const fa = new FaFreeProvider(
-  ['calendar-days', 'clock'], {cssChoices: []});
+  ['calendar-days', 'clock'],
+  {
+    prefix: "fa6",
+    cssChoices: []
+  });
 
 fa.makeFonts('build_static')
 

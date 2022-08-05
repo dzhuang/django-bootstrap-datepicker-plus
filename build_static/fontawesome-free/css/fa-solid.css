@@ -1,17 +1,17 @@
 :root, :host {
-  --fa-font-normal: normal normal 1em/1 "FontAwesome Free";
+  --fa6-font-normal: normal normal 1em/1 "FontAwesome Free";
 }
 
 @font-face {
   font-family: 'FontAwesome Free Solid';
   font-weight: 900;
   font-display: block;
-  src: url("../webfonts/fa-solid-900.woff2?v=f58d1932b33eee2fb24c5f5ee01c73f8") format("woff2"), url("../webfonts/fa-solid-900.ttf?v=f58d1932b33eee2fb24c5f5ee01c73f8") format("truetype");
+  src: url("../webfonts/fa6-solid-900.woff2?v=f58d1932b33eee2fb24c5f5ee01c73f8") format("woff2"), url("../webfonts/fa6-solid-900.ttf?v=f58d1932b33eee2fb24c5f5ee01c73f8") format("truetype");
 }
 
-.fa-solid {
+.fa6-solid {
   font-family: 'FontAwesome Free Solid';
   font-weight: 900;
 }
 
-/*# sourceMappingURL=fa-solid.css.map */
+/*# sourceMappingURL=fa6-solid.css.map */
