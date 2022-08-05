@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "fontawesome-free.min.css",
+	"sources": [
+		"../scss/fontawesome-free.scss",
+		"../scss/_variables.scss",
+		"../scss/_mixins.scss",
+		"../scss/_core.scss",
+		"../scss/_icons.scss"
+	],
+	"names": [],
+	"mappings": "AAAA;;;;GAIG,AGDH,AAAA,GAAG,AAAgB,CACjB,WAAW,CAAE,0CAA2E,CACxF,WAAW,CAAE,oBAAoD,CAClE,AAED,AAAA,GAAG,CACH,SAAS,CACT,WAAW,AAAe,CACxB,uBAAuB,CAAE,SAAS,CAClC,sBAAsB,CAAE,WAAW,CACnC,OAAO,CAAE,+BAA0D,CACnE,UAAU,CAAE,MAAM,CAClB,YAAY,CAAE,MAAM,CACpB,WAAW,CAAE,CAAC,CACd,cAAc,CAAE,IAAI,CACrB,ACXC,AAAA,iBAAiB,AAAA,QAAQ,AAAW,CAAE,OAAO,CAAE,OAAyB,CAAI,AAA5E,AAAA,SAAS,AAAA,QAAQ,AAAmB,CAAE,OAAO,CAAE,OAAyB,CAAI"
+}

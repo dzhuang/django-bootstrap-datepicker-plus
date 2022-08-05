@@ -1,0 +1,22 @@
+// variables
+// --------------------------
+$fa-css-prefix          : fa !default;
+$fa-style               : 400 !default;
+$fa-style-family        : 'FontAwesome Free' !default;
+
+$fa-display             : inline-block !default;
+
+$fa-font-display        : block !default;
+$fa-font-path           : "../webfonts" !default;
+
+$fa-primary-opacity     : 1 !default;
+$fa-secondary-opacity   : .4 !default;
+
+
+$fa-var-calendar-days: \f073;$fa-var-clock: \f017;
+
+$fa-icons: (
+    "calendar-days": $fa-var-calendar-days,
+    "clock": $fa-var-clock
+);
+

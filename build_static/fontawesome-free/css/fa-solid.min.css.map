@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "fa-solid.min.css",
+	"sources": [
+		"../scss/fa-solid.scss",
+		"../scss/_variables.scss"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,KAAK,CAAE,KAAK,AAAC,CACX,gBAA+B,CAAc,uCAAC,CAC/C,AAED,UAAU,CACR,WAAW,CAAE,wBAAwB,CACrC,WAAW,CAAE,GAAG,CAChB,YAAY,CCDY,KAAK,CDE7B,GAAG,CAAE,wEAA6E,CAAC,eAAe,CAChG,sEAA2E,CAAC,kBAAkB,CAIlG,AAAA,SAAS,AAAgB,CACvB,WAAW,CAAE,wBAAwB,CACrC,WAAW,CAAE,GAAG,CACjB"
+}

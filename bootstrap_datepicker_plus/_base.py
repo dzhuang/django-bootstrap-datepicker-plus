@@ -49,21 +49,9 @@ class BasePickerInput(DateTimeBaseInput):
 
     class Media:
         """JS/CSS resources needed to render the date-picker calendar."""
-
         js = (
-            "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/"
-            "moment-with-locales.min.js",
-            "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/"
-            "4.17.47/js/bootstrap-datetimepicker.min.js",
-            "bootstrap_datepicker_plus/js/datepicker-widget.js",
+            "bootstrap_datepicker_plus/datepicker-widget.js",
         )
-        css = {
-            "all": (
-                "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/"
-                "4.17.47/css/bootstrap-datetimepicker.css",
-                "bootstrap_datepicker_plus/css/datepicker-widget.css",
-            ),
-        }
 
     @classmethod
     def format_py2js(cls, datetime_format):

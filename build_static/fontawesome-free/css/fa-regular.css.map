@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "fa-regular.css",
+	"sources": [
+		"../scss/fa-regular.scss",
+		"../scss/_variables.scss"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,KAAK,EAAE,KAAK,CAAC;EACX,gBAA+B,CAAc,uCAAC;CAC/C;;AAED,UAAU;EACR,WAAW,EAAE,0BAA0B;EACvC,WAAW,EAAE,GAAG;EAChB,YAAY,ECDY,KAAK;EDE7B,GAAG,EAAE,0EAA+E,CAAC,eAAe,EAClG,wEAA6E,CAAC,kBAAkB;;;AAIpG,AAAA,WAAW,CAAgB;EACzB,WAAW,EAAE,0BAA0B;EACvC,WAAW,EAAE,GAAG;CACjB"
+}
