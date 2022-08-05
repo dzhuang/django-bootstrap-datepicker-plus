@@ -36,7 +36,7 @@ export default [
   {
     input: 'build_static/build.js',
     output: {
-      file: 'bootstrap_datepicker_plus/static/datepicker-widget.js',
+      file: 'bootstrap_datepicker_plus/static/bootstrap_datepicker_plus/datepicker-widget.js',
       format: 'iife',
       sourcemap: true,
       name: 'datepickerWidget',
